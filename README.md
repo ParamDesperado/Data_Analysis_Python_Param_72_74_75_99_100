@@ -61,7 +61,7 @@ python-data-analysis/
 ├── Day_72_College_Majors_Analysis_Pandas.ipynb
 ├── Day_74_Lego_Data_Analysis.ipynb
 ├── Day_75_Google_Trends_Analysis.ipynb
-├── Day_82_Fatal_Force_Analysis.ipynb
+├── Day_100_Fatal_Force_Analysis.ipynb
 ├── Day_99_Space_Missions_Analysis.ipynb
 └── README.md
 ```
