@@ -19,6 +19,12 @@ A collection of data analysis projects completed as part of my Python and Data S
 * Investigated search interest trends over time
 * Applied time series analysis and visualization
 
+### 🚔 Fatal Force Analysis
+
+* Analyzed police shooting data across the United States
+* Explored demographic, geographic, and socioeconomic patterns
+* Combined multiple datasets to investigate potential correlations
+
 ### 🚀 Space Missions Analysis
 
 * Analyzed over 60 years of global space mission data
@@ -42,9 +48,10 @@ A collection of data analysis projects completed as part of my Python and Data S
 * Data Aggregation
 * Data Merging
 * Exploratory Data Analysis (EDA)
-* Time Series Analysis
 * Data Visualization
+* Time Series Analysis
 * Trend Analysis
+* Data Integration
 
 ## 📂 Repository Structure
 
@@ -54,6 +61,7 @@ python-data-analysis/
 ├── Day_72_College_Majors_Analysis_Pandas.ipynb
 ├── Day_74_Lego_Data_Analysis.ipynb
 ├── Day_75_Google_Trends_Analysis.ipynb
+├── Day_82_Fatal_Force_Analysis.ipynb
 ├── Day_99_Space_Missions_Analysis.ipynb
 └── README.md
 ```
